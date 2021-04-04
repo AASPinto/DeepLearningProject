@@ -1,0 +1,5 @@
+,Name,neur,dropout
+0,gridModel0,8,0
+1,gridModel1,16,0
+2,gridModel2,8,0.5
+3,gridModel3,16,0.5
